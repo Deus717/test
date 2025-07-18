@@ -13,7 +13,7 @@ fire_sound = mixer.Sound('fire.ogg') #Звук стрельбы
 
 font.init()
 font2 = font.Font(None,36)
-
+###
 font1 = font.Font(None,80)
 
 win = font1.render('YOU WIN!', True, (255,255,255))
